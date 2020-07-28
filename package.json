@@ -1,0 +1,25 @@
+{
+  "name": "alphagov",
+  "version": "1.0.0",
+  "description": "alphagov",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ostree/alphagov.git"
+  },
+  "keywords": [
+    "alphagov"
+  ],
+  "author": "ostree",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ostree/alphagov/issues"
+  },
+  "homepage": "https://github.com/ostree/alphagov#readme",
+  "dependencies": {
+    "govuk-frontend": "^3.7.0"
+  }
+}
